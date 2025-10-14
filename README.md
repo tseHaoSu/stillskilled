@@ -18,7 +18,7 @@
 </p>
 
 
- - version.1: https://job-seek-2-f6996frge-tsehaosus-projects.vercel.app/
+ - v1: https://www.still-skilled.org/
 
 ## ✨ Features
 
@@ -30,16 +30,6 @@
 - 📊 **Database Integration** - Powerful Supabase database capabilities
 - 🔧 **Easy Configuration** - Simple environment setup
 
-## 🔍 Demo
-
-Check out our live demo at [your-demo-link.com](https://your-demo-link.com)
-
-## 🔥 Screenshots
-
-<p align="center">
-  <img src="path-to-screenshot1.png" alt="Screenshot 1" width="45%">
-  <img src="path-to-screenshot2.png" alt="Screenshot 2" width="45%">
-</p>
 
 ## 🚀 Quick Start
 
